@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on _Financial Modelling_ of the precious metals complex - gold, silver, platinum, mining 
+- 🌱 I’m currently learning data science and visualisation in Python
+- 👯 I’m looking to collaborate on automated trading bots 
+- 🤔 I’m looking for help with creating new connectors between _Hummingbot_ and new exchanges.  
+- 💬 Ask me about market making and liquidity mining
+- 📫 How to reach me: d.j.rodrigues.00@gmail.com
+- ⚡ Fun fact: I once worked at Tower Bridge as a tour guide
 
 <!--
 **djr41/djr41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
